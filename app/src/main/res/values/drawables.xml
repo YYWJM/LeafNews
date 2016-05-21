@@ -1,4 +1,7 @@
 <resources xmlns:android="http://schemas.android.com/apk/res/android">
+    <item name="ic_portrait" type="drawable">@mipmap/ic_launcher</item>
     <item name="ic_menu_news" type="drawable">@android:drawable/ic_menu_gallery</item>
     <item name="ic_menu_about" type="drawable">@android:drawable/ic_menu_manage</item>
+    <item name="ic_image_loading" type="drawable">@mipmap/ic_image_loading</item>
+    <item name="ic_image_loadfail" type="drawable">@mipmap/ic_image_loadfail</item>
 </resources>
